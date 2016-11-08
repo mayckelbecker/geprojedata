@@ -1,4 +1,4 @@
-package br.com.projedata.grupodeestudos.principal;
+package br.com.projedata.grupodeestudos.principal; /*Mayckel Becker Exemplo*/
 
 import br.com.projedata.grupodeestudos.entidades.Fisica;
 import br.com.projedata.grupodeestudos.entidades.Juridica;
@@ -19,8 +19,8 @@ public class Principal {
 
 		Juridica juridica = new Juridica();
 
-		juridica.setNome("Projedata Inform·tica LTDA");
-		juridica.setEndereco("RUA JO√O WESSLER");
+		juridica.setNome("Projedata Inform√°tica LTDA");
+		juridica.setEndereco("RUA JO√ÉO WESSLER");
 		juridica.setTelefone("(48) 3302-1111");
 		juridica.setCnpj("04.560.916.0001-57");
 		juridica.setIncricaoEstadual("ISENTO");
